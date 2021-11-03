@@ -23,7 +23,7 @@ plt.legend()    #添加图例
 plt.show()
 
 # 读入图像
-img = imread('/home/echo/图片/壁纸/wallhaven-e7e1qr.png')
-plt.imshow(img)
+# img = imread('/home/echo/图片/壁纸/wallhaven-e7e1qr.png')
+# plt.imshow(img)
 
 plt.show()
